@@ -9,6 +9,7 @@
         "ageValue": "48",
         "gender": "Male",
         "deathPlace": "Residence",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69079cea4cf12566bb36db40a1e56c48"
     },
@@ -22,6 +23,7 @@
         "ageValue": "51",
         "gender": "Female",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69079cea4cf12566bb36db40a1e56c48"
     },
@@ -35,6 +37,7 @@
         "ageValue": "78",
         "gender": "Male",
         "deathPlace": "",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69079cea4cf12566bb36db40a1e56c48"
     },
@@ -48,6 +51,7 @@
         "ageValue": "72",
         "gender": "Male",
         "deathPlace": "Peradeniya Teaching Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "14c7ffdb2826f856c0738edaac97d80a"
     },
@@ -61,6 +65,7 @@
         "ageValue": "50",
         "gender": "Female",
         "deathPlace": "Mulleriyawa Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69079cea4cf12566bb36db40a1e56c48"
     },
@@ -74,6 +79,7 @@
         "ageValue": "81",
         "gender": "Male",
         "deathPlace": "Residence",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "14c7ffdb2826f856c0738edaac97d80a"
     },
@@ -87,6 +93,7 @@
         "ageValue": "73",
         "gender": "Male",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69079cea4cf12566bb36db40a1e56c48"
     },
@@ -100,6 +107,7 @@
         "ageValue": "70",
         "gender": "Male",
         "deathPlace": "Chilaw Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69079cea4cf12566bb36db40a1e56c48"
     },
@@ -113,6 +121,7 @@
         "ageValue": "90",
         "gender": "Female",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69079cea4cf12566bb36db40a1e56c48"
     },
@@ -126,6 +135,7 @@
         "ageValue": "74",
         "gender": "Male",
         "deathPlace": "Residence",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "714eab42eaea9a4a626d2464f8991c01"
     },
@@ -139,6 +149,7 @@
         "ageValue": "74",
         "gender": "Female",
         "deathPlace": "Residence",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "714eab42eaea9a4a626d2464f8991c01"
     },
@@ -152,6 +163,7 @@
         "ageValue": "81",
         "gender": "Male",
         "deathPlace": "Mulleriyawa Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "714eab42eaea9a4a626d2464f8991c01"
     },
@@ -165,6 +177,7 @@
         "ageValue": "85",
         "gender": "Male",
         "deathPlace": "The National Hospital of Sri Lanka",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "5a281a09c3938c5641f9178d41edd17f"
     },
@@ -178,6 +191,7 @@
         "ageValue": "74",
         "gender": "Female",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "7a258ae33334a23b2d69e7f049c2c3ec"
     },
@@ -191,6 +205,7 @@
         "ageValue": "64",
         "gender": "Male",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "7a258ae33334a23b2d69e7f049c2c3ec"
     },
@@ -204,6 +219,7 @@
         "ageValue": "76",
         "gender": "Male",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "7a258ae33334a23b2d69e7f049c2c3ec"
     },
@@ -217,6 +233,7 @@
         "ageValue": "58",
         "gender": "Male",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "7a258ae33334a23b2d69e7f049c2c3ec"
     },
@@ -230,6 +247,7 @@
         "ageValue": "66",
         "gender": "Male",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "6834538a7fd1902120661cdb0440f7e9"
     },
@@ -243,6 +261,7 @@
         "ageValue": "81",
         "gender": "Male",
         "deathPlace": "IDH",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "6834538a7fd1902120661cdb0440f7e9"
     },
@@ -256,6 +275,7 @@
         "ageValue": "89",
         "gender": "Female",
         "deathPlace": "Colombo General Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "6834538a7fd1902120661cdb0440f7e9"
     },
@@ -269,6 +289,7 @@
         "ageValue": "47",
         "gender": "Male",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "08f32758317688a60c4c12922455f935"
     },
@@ -282,6 +303,7 @@
         "ageValue": "72",
         "gender": "Male",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "08f32758317688a60c4c12922455f935"
     },
@@ -295,6 +317,7 @@
         "ageValue": "57",
         "gender": "Female",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "08f32758317688a60c4c12922455f935"
     },
@@ -308,6 +331,7 @@
         "ageValue": "53",
         "gender": "Male",
         "deathPlace": "Mulleriyawa Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "08f32758317688a60c4c12922455f935"
     },
@@ -321,6 +345,7 @@
         "ageValue": "90",
         "gender": "Female",
         "deathPlace": "IDH",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69b07458a29f3914ba858990ebfbd5f8"
     },
@@ -334,6 +359,7 @@
         "ageValue": "60",
         "gender": "Male",
         "deathPlace": "Homagama Base Hospital",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69b07458a29f3914ba858990ebfbd5f8"
     },
@@ -347,6 +373,7 @@
         "ageValue": "78",
         "gender": "Male",
         "deathPlace": "Iranawila Covid-19 Treatment Centre",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69b07458a29f3914ba858990ebfbd5f8"
     },
@@ -360,6 +387,7 @@
         "ageValue": "75",
         "gender": "Male",
         "deathPlace": "Residence",
+        "incarcerated": false,
         "sourceType": "DGI_PR_DOCS",
         "sourceRef": "69b07458a29f3914ba858990ebfbd5f8"
     }
