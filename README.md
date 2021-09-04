@@ -21,7 +21,13 @@ After cloning repository,
 yarn install
 yarn scrape
 ```
-
+### Configuration
+These environment variables should be set for full functionality.
+```
+GOOGLE_SERVICE_ACCOUNT_EMAIL=<saccount>
+GOOGLE_PRIVATE_KEY=<pkey>
+GOOGLE_SHEET_ID=<sheedId>
+```
 ## Licence
 
 ```
