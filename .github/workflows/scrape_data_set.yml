@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Scrape Data
 
 on:
   schedule:
@@ -15,9 +15,22 @@ jobs:
       with:
         node-version: 12.x
         cache: 'yarn'
-    - run: yarn install
-    - run: yarn scrape
-    - run: git stash
-    - run: git chekout data
-    - run: git stash pop
-    - run: git status
+    - name: Install dependencies
+      run: yarn install
+    - name: Scrape Dataset
+      run: yarn scrape
+    - name: Prepare Scraped Results
+      run: |
+        mkdir /tmp/res
+        cp -r data /tmp/res
+    - uses: actions/checkout@v2
+      with:
+        ref: data
+    - run: |
+        echo "* $(date)" >> update.log
+        cp -r /tmp/res/data .
+        git config user.name updater-bot
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "updater-bot ${date}"
+        git push
