@@ -23,9 +23,9 @@ jobs:
         cd data
         ./ocr_dgi.sh
         cd ..
+        rm /data/ocr_dgi.sh
     - run: |
         echo "* $(date) AUTO_OCR" >> update.log
-        cp -r /tmp/res/data .
         git config user.name updater-bot
         git config user.email github-actions@github.com
         git add .
