@@ -1,0 +1,40 @@
+name: Build Data Set
+
+on:
+  # schedule:
+  # - cron: 0 0 * * *
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js with yarn
+      uses: actions/setup-node@v2
+      with:
+        node-version: 12.x
+        cache: 'yarn'
+    - name: Install dependencies
+      run: yarn install
+    - name: Build Dataset
+      env:
+        GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
+        GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
+        GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+      run: yarn build
+    - name: Prepare Results
+      run: |
+        mkdir /tmp/res
+        cp -r data /tmp/res
+    - uses: actions/checkout@v2
+      with:
+        ref: data
+    - run: |
+        echo "* $(date) DATA_SET" >> update.log
+        cp -r /tmp/res/data .
+        git config user.name updater-bot
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "updater-bot ${date}"
+        git push
