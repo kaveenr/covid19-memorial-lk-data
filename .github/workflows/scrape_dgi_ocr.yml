@@ -23,7 +23,7 @@ jobs:
         cd data
         ./ocr_dgi.sh
         cd ..
-        rm /data/ocr_dgi.sh
+        rm ./data/ocr_dgi.sh
     - run: |
         echo "* $(date) AUTO_OCR" >> update.log
         git config user.name updater-bot
