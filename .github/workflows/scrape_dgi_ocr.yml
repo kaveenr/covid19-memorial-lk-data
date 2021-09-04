@@ -12,14 +12,14 @@ jobs:
       run: |
         sudo apt-get install -y jq
         sudo apt-get install -y tesseract-ocr
-        cp scripts/ocr_dgi.sh /tmp/ocr_dgi.sh
+        cp ./scripts/ocr_dgi.sh /tmp/ocr_dgi.sh
     - uses: actions/checkout@v2
       with:
         ref: data
     - name: Run Script
       run: |
-        cp /tmp/ocr_dgi.sh /data/ocr_dgi.sh
-        chmod +x ocr_dgi.sh
+        cp /tmp/ocr_dgi.sh ./data/ocr_dgi.sh
+        chmod +x ./data/ocr_dgi.sh
         cd data
         ./ocr_dgi.sh
         cd ..
