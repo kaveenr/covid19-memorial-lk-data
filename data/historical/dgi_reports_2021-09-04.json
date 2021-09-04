@@ -1,5 +1,29 @@
 [
     {
+        "fuzzyKey": "b761779e23a4a799033e83e390016cb3",
+        "title": "Press Release - 2021.09.04 - Covid 19 Infection Report",
+        "scrapedDate": "2021-09-04",
+        "scrapedType": "Press Release",
+        "scrapedSubType": "Covid 19 Infection Report",
+        "image": "https://www.dgi.gov.lk/images/2021.09.04/Release_No_-_900_English_1-page-001.jpg"
+    },
+    {
+        "fuzzyKey": "033c4ad658e8a67fd74626488c59b498",
+        "title": "Press Release - 2021.09.04",
+        "scrapedDate": "2021-09-04",
+        "scrapedType": "Press Release",
+        "scrapedSubType": "Press Release",
+        "image": "https://www.dgi.gov.lk/images/2021.09.04/Release_No_-899_English-page-001.jpg"
+    },
+    {
+        "fuzzyKey": "ab78bdac7cdf040e3bf2f10945866dda",
+        "title": "Press Release - 2021.09.04 - Covid 19 Infection Deaths",
+        "scrapedDate": "2021-09-04",
+        "scrapedType": "Press Release",
+        "scrapedSubType": "Covid 19 Infection Deaths",
+        "image": "https://www.dgi.gov.lk/images/2021.09.04/Release_No_-_898_English-page-001.jpg"
+    },
+    {
         "fuzzyKey": "f3ff78b009ef8e7f665d2fffa929ca12",
         "title": "Press Release - 2021.09.03 - Covid 19 Infection Report",
         "scrapedDate": "2021-09-03",
