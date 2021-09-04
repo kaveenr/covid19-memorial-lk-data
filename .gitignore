@@ -209,8 +209,3 @@ $RECYCLE.BIN/
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,node,yarn
-
-
-data/*.json
-data/*.tsv
-data/historical/*.json
