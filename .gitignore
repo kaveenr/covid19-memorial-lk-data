@@ -214,5 +214,5 @@ $RECYCLE.BIN/
 data/*.json
 data/*.tsv
 data/historical/*.json
-
+data/dig_reports/
 /*.env

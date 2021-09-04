@@ -15,6 +15,7 @@
   },
   "scripts": {
     "scrape_dgi": "node ./src/dgi_c19_scrape.js",
+    "scrape_dgi_post": "node ./src/dgi_c19_cleanup.js",
     "scrape_jk": "node ./src/jh_user_keys.js",
     "scrape": "npm-run-all scrape_dgi scrape_jk",
     "build": "node ./src/build_dataset.js"
