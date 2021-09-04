@@ -1,0 +1,22 @@
+{
+  "name": "covid19-memorial-lk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kaveen Rodrigo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "tsv": "^0.2.0",
+    "x-ray": "^2.3.4"
+  },
+  "scripts": {
+    "scrape_dgi": "node ./src/dgi_c19_scrape.js",
+    "scrape_jk": "node ./src/jh_user_keys.js",
+    "scrape": "npm-run-all scrape_dgi scrape_jk"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
