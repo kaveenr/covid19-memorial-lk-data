@@ -1,0 +1,33 @@
+name: Auto OCR DGI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Prepare Script
+      run: |
+        sudo apt-get install -y jq
+        sudo apt-get install -y tesseract-ocr
+        cp scripts/ocr_dgi.sh /tmp/ocr_dgi.sh
+    - uses: actions/checkout@v2
+      with:
+        ref: data
+    - name: Run Script
+      run: |
+        cp /tmp/ocr_dgi.sh /data/ocr_dgi.sh
+        chmod +x ocr_dgi.sh
+        cd data
+        ./ocr_dgi.sh
+        cd ..
+    - run: |
+        echo "* $(date) AUTO_OCR" >> update.log
+        cp -r /tmp/res/data .
+        git config user.name updater-bot
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "updater-bot ${date}"
+        git push
