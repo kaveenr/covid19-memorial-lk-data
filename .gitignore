@@ -214,3 +214,5 @@ $RECYCLE.BIN/
 data/*.json
 data/*.tsv
 data/historical/*.json
+
+/*.env
