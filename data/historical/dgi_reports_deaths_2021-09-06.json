@@ -60,16 +60,6 @@
         "ageAbove60Female": 13
     },
     {
-        "fuzzyKey": "1e6834d57bd581a564b8384dd9bb28fa",
-        "date": "2021-06-27T05:30:00.000+05:30",
-        "ageBelow30Male": 0,
-        "ageBelow30Female": 1,
-        "age30to59Male": 3,
-        "age30to59Female": 9,
-        "ageAbove60Male": 9,
-        "ageAbove60Female": 17
-    },
-    {
         "fuzzyKey": "1e8bbae42cc575250dd7514298e3739c",
         "date": "2021-08-01T05:30:00.000+05:30",
         "ageBelow30Male": 1,
@@ -86,16 +76,6 @@
         "age30to59Female": 2,
         "ageAbove60Male": 15,
         "ageAbove60Female": 14
-    },
-    {
-        "fuzzyKey": "2cc13da6d4919f8d435cd3ee37bae284",
-        "date": "2021-06-29T05:30:00.000+05:30",
-        "ageBelow30Male": 0,
-        "ageBelow30Female": 1,
-        "age30to59Male": 5,
-        "age30to59Female": 7,
-        "ageAbove60Male": 19,
-        "ageAbove60Female": 13
     },
     {
         "fuzzyKey": "306de535c26df8282fedf7c7342eb78a",
@@ -166,16 +146,6 @@
         "ageAbove60Female": 72
     },
     {
-        "fuzzyKey": "4b6889514bd84e607db9150033dd8521",
-        "date": "2021-06-28T05:30:00.000+05:30",
-        "ageBelow30Male": 1,
-        "ageBelow30Female": 1,
-        "age30to59Male": 3,
-        "age30to59Female": 3,
-        "ageAbove60Male": 13,
-        "ageAbove60Female": 20
-    },
-    {
         "fuzzyKey": "5069e56ceed4a061cbb9becab0dbce11",
         "date": "2021-09-03T05:30:00.000+05:30",
         "ageBelow30Male": 2,
@@ -236,14 +206,6 @@
         "ageAbove60Female": 65
     },
     {
-        "fuzzyKey": "5ee79513f2c4b6fce1b6f520a64f47ec",
-        "date": "2021-06-25T05:30:00.000+05:30",
-        "ageBelow30Male": 0,
-        "ageBelow30Female": 0,
-        "ageAbove60Male": 18,
-        "ageAbove60Female": 19
-    },
-    {
         "fuzzyKey": "62a63c77392004f86508bc162cc95262",
         "date": "2021-08-02T05:30:00.000+05:30",
         "ageBelow30Male": 0,
@@ -252,26 +214,6 @@
         "age30to59Female": 7,
         "ageAbove60Male": 26,
         "ageAbove60Female": 20
-    },
-    {
-        "fuzzyKey": "633f388026e50163f626bcf49872db1c",
-        "date": "2021-06-26T05:30:00.000+05:30",
-        "ageBelow30Male": 0,
-        "ageBelow30Female": 1,
-        "age30to59Male": 2,
-        "age30to59Female": 5,
-        "ageAbove60Male": 16,
-        "ageAbove60Female": 19
-    },
-    {
-        "fuzzyKey": "6357969ec431bc9ff6035beb4938e21f",
-        "date": "2021-06-30T05:30:00.000+05:30",
-        "ageBelow30Male": 0,
-        "ageBelow30Female": 1,
-        "age30to59Male": 10,
-        "age30to59Female": 2,
-        "ageAbove60Male": 21,
-        "ageAbove60Female": 13
     },
     {
         "fuzzyKey": "67a19cf5bc13e3947ba37c84c2969fa8",
@@ -320,16 +262,6 @@
         "age30to59Female": 2,
         "ageAbove60Male": 64,
         "ageAbove60Female": 37
-    },
-    {
-        "fuzzyKey": "7f2aa0241820ef8fa285158d9c1fe927",
-        "date": "2021-06-23T05:30:00.000+05:30",
-        "ageBelow30Male": 1,
-        "ageBelow30Female": 1,
-        "age30to59Male": 4,
-        "age30to59Female": 6,
-        "ageAbove60Male": 20,
-        "ageAbove60Female": 33
     },
     {
         "fuzzyKey": "8181fdbbbfc0620a54c0a212e0ab9a58",
@@ -400,16 +332,6 @@
         "age30to59Female": 17,
         "ageAbove60Male": 88,
         "ageAbove60Female": 85
-    },
-    {
-        "fuzzyKey": "9764010c5a8194f9f164aa0a73fb7e97",
-        "date": "2021-06-22T05:30:00.000+05:30",
-        "ageBelow30Male": 0,
-        "ageBelow30Female": 1,
-        "age30to59Male": 6,
-        "age30to59Female": 7,
-        "ageAbove60Male": 32,
-        "ageAbove60Female": 25
     },
     {
         "fuzzyKey": "98e31a277df65ae361d872584e6bf79f",
@@ -546,16 +468,6 @@
         "age30to59Female": 14
     },
     {
-        "fuzzyKey": "ca76ae0548679e9e7422e85e5b07e7aa",
-        "date": "2021-06-24T05:30:00.000+05:30",
-        "ageBelow30Male": 1,
-        "ageBelow30Female": 0,
-        "age30to59Male": 2,
-        "age30to59Female": 8,
-        "ageAbove60Male": 15,
-        "ageAbove60Female": 19
-    },
-    {
         "fuzzyKey": "cda6b22b9095811e1557190cda0489cf",
         "date": "2021-08-06T05:30:00.000+05:30",
         "ageBelow30Male": 1,
@@ -582,14 +494,6 @@
         "age30to59Female": 29,
         "ageAbove60Male": 71,
         "ageAbove60Female": 74
-    },
-    {
-        "fuzzyKey": "cf39b94352041c144ce5bf226511ba9c",
-        "date": "2021-08-03T05:30:00.000+05:30",
-        "age30to59Male": 12,
-        "age30to59Female": 5,
-        "ageAbove60Male": 35,
-        "ageAbove60Female": 21
     },
     {
         "fuzzyKey": "d3bf9ea82b48a3cc9161727ede2302d5",
