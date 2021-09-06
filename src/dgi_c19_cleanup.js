@@ -3,6 +3,7 @@ const { saveDataSource } = require('./commons');
 const moment = require('moment');
 
 const BASE_PATH = "./data/dig_reports/txt/";
+const HEADER_MATCH = /Age group Male Female Total/g;
 const DATE_MATCH = /Covid death figures reported today (\d+.\d+.\d+)/g;
 const MATCH_TABLE = /(.+) (\d+) (\d+) (\d+)\n/g;
 
@@ -15,7 +16,8 @@ async function main() {
         if (!fileName.endsWith(".txt")) continue;
         const fileContent = fs.readFileSync(`${BASE_PATH}${fileName}`).toString();
         const dateMatch = [...fileContent.matchAll(DATE_MATCH)];
-        if (dateMatch.length) {
+        const headerMatch = [...fileContent.matchAll(HEADER_MATCH)];
+        if (dateMatch.length && headerMatch.length) {
             const matchDate = moment(dateMatch[0][1],"DD.MM.YYYY");
             const tableEntires = [...fileContent.matchAll(MATCH_TABLE)];
             let table = {}
