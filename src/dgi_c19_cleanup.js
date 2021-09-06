@@ -51,7 +51,7 @@ async function main() {
             dataSet.push(entry);
         }
     }
-    saveDataSource("dgi_reports_deaths", dataSet);
+    saveDataSource("dgi_reports_deaths", dataSet.sort((a, b) => (moment(a.date).diff(moment(b.date), "d"))).reverse());
 }
 
 main();
