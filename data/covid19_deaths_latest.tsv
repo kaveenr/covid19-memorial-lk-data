@@ -82,7 +82,7 @@ indexKey	deathDate	province	district	city	ageType	ageValue	gender	deathPlace	inc
 2021-01-28-0002	2021-01-28T05:30:00.000+05:30	Sabaragamuwa	Ratnapura	Gallella	FINE	76	Female	Ratnapura Teaching Hospital	false	DGI_PR_DOCS	7d243f794e2fa0a4d1b56f9743d6b423
 2021-01-28-0003	2021-01-28T05:30:00.000+05:30	Southern	Galle	Galle	FINE	58	Male	Mulleriyawa Base Hospital	false	DGI_PR_DOCS	f03e1b5cd541ff7a2c62f6d28cbfd367
 2021-01-28-0004	2021-01-28T05:30:00.000+05:30	Western	Colombo	Moratuwa	FINE	80	Male	Pimbura Base Hospital	false	DGI_PR_DOCS	f03e1b5cd541ff7a2c62f6d28cbfd367
-2021-01-28-0005	2021-01-28T05:30:00.000+05:30	Western	Colombo	Colombo 15	FINE	93	Male	Residence	false		59046546d804c041896e64910a72f6fc
+2021-01-28-0005	2021-01-28T05:30:00.000+05:30	Western	Colombo	Colombo 15	FINE	93	Male	Residence	false	DGI_PR_DOCS	59046546d804c041896e64910a72f6fc
 2021-01-29-0001	2021-01-29T05:30:00.000+05:30	Western	Colombo	Colombo 15	FINE	52	Male	Homagama Base Hospital	false	DGI_PR_DOCS	59046546d804c041896e64910a72f6fc
 2021-01-29-0002	2021-01-29T05:30:00.000+05:30	Western	Kalutara	Pokunuwita	FINE	58	Female	Homagama Base Hospital	false	DGI_PR_DOCS	59046546d804c041896e64910a72f6fc
 2021-01-29-0003	2021-01-29T05:30:00.000+05:30	Western	Colombo		FINE	79	Male	Homagama Base Hospital	false	DGI_PR_DOCS	59046546d804c041896e64910a72f6fc
@@ -103,3 +103,8 @@ indexKey	deathDate	province	district	city	ageType	ageValue	gender	deathPlace	inc
 2021-02-01-0007	2021-02-01T05:30:00.000+05:30	Sabaragamuwa	Kegalle	Yatiyantota	FINE	70	Female	Homagama Base Hospital	false	DGI_PR_DOCS	fc4e48c009e4ba5fabbf19a3e1f9f89b
 2021-02-02-0001	2021-02-02T05:30:00.000+05:30	Western	Gampaha	Walgammulla	FINE	89	Female	Residence	false	DGI_PR_DOCS	fc4e48c009e4ba5fabbf19a3e1f9f89b
 2021-02-02-0002	2021-02-02T05:30:00.000+05:30	Western	Gampaha	Negombo	FINE	66	Male	Mulleriyawa Base Hospital	false	DGI_PR_DOCS	fc4e48c009e4ba5fabbf19a3e1f9f89b
+2021-02-02-0003	2021-02-02T05:30:00.000+05:30	western	Gampaha	Biyagama	FINE	66	Male	Colombo General Hospital	false	DGI_PR_DOCS	2e7c4a1307b47c0d0bf9a6609841ffff
+2021-02-03-0001	2021-02-03T05:30:00.000+05:30	Western	Kalutara	Maggona	FINE	58	Male	IDH	false	DGI_PR_DOCS	2e7c4a1307b47c0d0bf9a6609841ffff
+2021-02-03-0002	2021-02-03T05:30:00.000+05:30	North Western	Kurunegala	Weuda	FINE	82	Male	Theldeniya Base Hospital	false	DGI_PR_DOCS	2e7c4a1307b47c0d0bf9a6609841ffff
+2021-02-03-0003	2021-02-03T05:30:00.000+05:30	Central	Kandy	Katugastota	FINE	70	Male	Theldeniya Base Hospital	false	DGI_PR_DOCS	2e7c4a1307b47c0d0bf9a6609841ffff
+2021-02-04-0001	2021-02-04T05:30:00.000+05:30	North Western	Kurunegala	Hettipola	FINE	53	Male	Homagama Base Hospital	false	DGI_PR_DOCS	2e7c4a1307b47c0d0bf9a6609841ffff
