@@ -47,11 +47,38 @@ indexKey	deathDate	province	district	city	ageType	ageValue	gender	deathPlace	inc
 2020-12-15-0002	2020-12-15T05:30:00.000+05:30	Southern	Kalutara	Maggona	FINE	86	Female	Residence	false	DGI_PR_DOCS	8dddbdc687fe820774f56bb156db4017
 2020-12-16-0001	2020-12-16T05:30:00.000+05:30	Western	Kalutara	Bandaragama	FINE	43	Female	Homagama Base Hospital	false	DGI_PR_DOCS	acd28fe3ae9ae6f49b5d3607481cafac
 2020-12-17-0001	2020-12-17T05:30:00.000+05:30	Western	Colombo	Colombo 15	FINE	77	Male	Colombo General Hospital	false	DGI_PR_DOCS	bb50895be39d4d94cfba2ee9d021090f
+2020-12-17-0002	2020-12-17T05:30:00.000+05:30	Western	Colombo	Colombo 8	FINE	52	Male	Residence	false	DGI_PR_DOCS	e7f5a1ed14a80522429f1c21b91ad199
 2020-12-18-0001	2020-12-18T05:30:00.000+05:30	Western	Colombo	Colombo 15	FINE	76	Male	Homagama Base Hospital	false	DGI_PR_DOCS	8dddbdc687fe820774f56bb156db4017
 2020-12-18-0002	2020-12-18T05:30:00.000+05:30	Western	Colombo	Maharagama	FINE	50	Male	Homagama Base Hospital	false	DGI_PR_DOCS	8dddbdc687fe820774f56bb156db4017
 2020-12-18-0003	2020-12-18T05:30:00.000+05:30	Western	Gampaha	Wathupitiwala	FINE	86	Male	Residence	false	DGI_PR_DOCS	8dddbdc687fe820774f56bb156db4017
 2020-12-18-0004	2020-12-18T05:30:00.000+05:30	Western	Gampaha	Weeragula	FINE	68	Male	Wathupitiwala Base Hospital	false	DGI_PR_DOCS	bb50895be39d4d94cfba2ee9d021090f
+2020-12-18-0005	2020-12-18T05:30:00.000+05:30	Western	Kalutara	Bandaragama	FINE	83	Female	Residence	false	DGI_PR_DOCS	bb50895be39d4d94cfba2ee9d021090f
+2020-12-18-0006	2020-12-18T05:30:00.000+05:30	Western	Colombo	Kiriwattuduwa	FINE	88	Female	Residence	false	DGI_PR_DOCS	bb50895be39d4d94cfba2ee9d021090f
+2020-12-18-0007	2020-12-18T05:30:00.000+05:30	Western	Colombo		FINE	71	Male	Mulleriyawa Base Hospital	false	DGI_PR_DOCS	e7f5a1ed14a80522429f1c21b91ad199
+2020-12-18-0008	2020-12-18T05:30:00.000+05:30	Western	Kalutara	Dharga Town	FINE	77	Male	Residence	false	DGI_PR_DOCS	978ad5889d7c1ca66026649e6bf36823
 2020-12-19-0001	2020-12-19T05:30:00.000+05:30	Western	Colombo	Colombo 14	FINE	39	Female	IDH	false	DGI_PR_DOCS	bb50895be39d4d94cfba2ee9d021090f
+2020-12-19-0002	2020-12-19T05:30:00.000+05:30	Western	Colombo	Colombo 12	FINE	71	Female	Pimbura Base Hospital	false	DGI_PR_DOCS	e7f5a1ed14a80522429f1c21b91ad199
+2020-12-19-0003	2020-12-19T05:30:00.000+05:30	Western	Colombo	Colombo 2	FINE	44	Male	Chest Hospital Welisara	false	DGI_PR_DOCS	e7f5a1ed14a80522429f1c21b91ad199
+2020-12-19-0004	2020-12-19T05:30:00.000+05:30	Western	Kalutara	Bandaragama	FINE	49	Male	Horana Base Hospital	false	DGI_PR_DOCS	e7f5a1ed14a80522429f1c21b91ad199
+2020-12-19-0005	2020-12-19T05:30:00.000+05:30	Western	Colombo	Colombo 15	FINE	55	Male	Colombo General Hospital	false	DGI_PR_DOCS	978ad5889d7c1ca66026649e6bf36823
+2020-12-19-0006	2020-12-19T05:30:00.000+05:30	Southern	Kalutara	Maggona	FINE	63	Female	Residence	false	DGI_PR_DOCS	978ad5889d7c1ca66026649e6bf36823
+2020-12-20-0001	2020-12-20T05:30:00.000+05:30	Western	Colombo	Colombo 7	FINE	72	Female	Residence	false	DGI_PR_DOCS	68409ffca6ad795473aabf5325b5c737
+2020-12-20-0002	2020-12-20T05:30:00.000+05:30	Western	Colombo	Colombo 10	FINE	83	Male	Homagama Base Hospital	false	DGI_PR_DOCS	978ad5889d7c1ca66026649e6bf36823
+2020-12-21-0001	2020-12-21T05:30:00.000+05:30	Western	Kalutara	Kalutara	FINE	71	Male	Residence	false	DGI_PR_DOCS	8d6aaff8fee8c30fb323df061e56d6b2
+2020-12-22-0002	2020-12-22T05:30:00.000+05:30	Western	Kalutara	Kalutara	FINE	57	Female	Kalutara District General Hospital	false	DGI_PR_DOCS	82c9dee8adba5bdbdf10a90be818e5d5
+2020-12-24-0001	2020-12-24T05:30:00.000+05:30	Western	Kalutara	Dharga Town	FINE	90	Male	Kalutara District General Hospital	false	DGI_PR_DOCS	82c9dee8adba5bdbdf10a90be818e5d5
+2020-12-25-0001	2020-12-25T05:30:00.000+05:30	Western	Colombo	Kadawatha	FINE	78	Female	Mulleriyawa Base Hospital	false	DGI_PR_DOCS	e9afbd9aa69faf529c6c78933c7586a8
+2020-12-26-0001	2020-12-26T05:30:00.000+05:30	Western	Colombo	Colombo 15	FINE	67	Male	Homagama Base Hospital	false	DGI_PR_DOCS	0c2c39ac19427a9258feb585cdf08183
+2020-12-26-0002	2020-12-26T05:30:00.000+05:30	Western	Colombo	Sri Jayawardenepura	FINE	66	Male	Homagama Base Hospital	false	DGI_PR_DOCS	e9afbd9aa69faf529c6c78933c7586a8
+2020-12-26-0003	2020-12-26T05:30:00.000+05:30	Western	Gampaha	Ragama	FINE	75	Female	Mulleriyawa Base Hospital	false	DGI_PR_DOCS	e9afbd9aa69faf529c6c78933c7586a8
+2020-12-26-0004	2020-12-26T05:30:00.000+05:30	Northern	Vavuniya	Vavuniya	FINE	52	Female	Teaching Hospital Anuradhapura	false	DGI_PR_DOCS	e9afbd9aa69faf529c6c78933c7586a8
+2020-12-28-0001	2020-12-28T05:30:00.000+05:30	Central	Kandy	Teldeniya	FINE	83	Male	Teldeniya Base Hospital	false	DGI_PR_DOCS	82c9dee8adba5bdbdf10a90be818e5d5
+2020-12-28-0002	2020-12-28T05:30:00.000+05:30	Western	Colombo	Wellampitiya	FINE	45	Male	Homagama Base Hospital	false	DGI_PR_DOCS	96a2d623d34257f284358ad89aeb9a3d
+2020-12-28-0003	2020-12-28T05:30:00.000+05:30	Southern	Kalutara	Dharga Town	FINE	72	Male	Kalutara District General Hospital	false	DGI_PR_DOCS	3ec7cea834829a028d18a993ef561ac2
+2020-12-30-0001	2020-12-30T05:30:00.000+05:30	Central	Matale	Galewela	FINE	46	Male	Galewela District Hospital	false	DGI_PR_DOCS	3ec7cea834829a028d18a993ef561ac2
+2020-12-30-0002	2020-12-30T05:30:00.000+05:30	Sabaragamuwa	Ratnapura	Pelmadulla	FINE	75	Male	Teaching Hospital Ratnapura	false	DGI_PR_DOCS	3ec7cea834829a028d18a993ef561ac2
+2020-12-31-0001	2020-12-31T05:30:00.000+05:30	Western	Colombo	Homagama	FINE	59	Male	IDH	false	DGI_PR_DOCS	3ec7cea834829a028d18a993ef561ac2
+2020-12-31-0002	2020-12-31T05:30:00.000+05:30	Western	Colombo	Colombo 5	FINE	61	Female	IDH	false	DGI_PR_DOCS	3ec7cea834829a028d18a993ef561ac2
 2021-01-07-0001	2021-01-07T05:30:00.000+05:30	Western	Colombo	Mount Lavinia	FINE	74	Female	Homagama Base Hospital	false	DGI_PR_DOCS	7a258ae33334a23b2d69e7f049c2c3ec
 2021-01-08-0001	2021-01-08T05:30:00.000+05:30	Sabaragamuwa	Ratnapura	Opanayaka	FINE	58	Male	Homagama Base Hospital	false	DGI_PR_DOCS	7a258ae33334a23b2d69e7f049c2c3ec
 2021-01-08-0002	2021-01-08T05:30:00.000+05:30	Western	Gampaha	Negombo	FINE	62	Male	Mulleriyawa Base Hospital	false	DGI_PR_DOCS	a68c89c976b25e1567797e236a1b3b25
@@ -138,3 +165,14 @@ indexKey	deathDate	province	district	city	ageType	ageValue	gender	deathPlace	inc
 2021-02-03-0002	2021-02-03T05:30:00.000+05:30	North Western	Kurunegala	Weuda	FINE	82	Male	Theldeniya Base Hospital	false	DGI_PR_DOCS	2e7c4a1307b47c0d0bf9a6609841ffff
 2021-02-03-0003	2021-02-03T05:30:00.000+05:30	Central	Kandy	Katugastota	FINE	70	Male	Theldeniya Base Hospital	false	DGI_PR_DOCS	2e7c4a1307b47c0d0bf9a6609841ffff
 2021-02-04-0001	2021-02-04T05:30:00.000+05:30	North Western	Kurunegala	Hettipola	FINE	53	Male	Homagama Base Hospital	false	DGI_PR_DOCS	2e7c4a1307b47c0d0bf9a6609841ffff
+2021-04-28-0001	2021-04-28T05:30:00.000+05:30	Sabaragamuwa	Ratnapura	Ruwanwella	FINE	75	Male	Homagama Base Hospital	false	DGI_PR_DOCS	3f6ec708eecda64ab490d37c9562325f
+2021-04-29-0001	2021-04-29T05:30:00.000+05:30	Sabaragamuwa	Ratnapura	Karandana	FINE	65	Male	Horana Base Hospital	false	DGI_PR_DOCS	3f6ec708eecda64ab490d37c9562325f
+2021-04-29-0002	2021-04-29T05:30:00.000+05:30	North Central	Anuradhapura	Kebithigollewa	FINE	94	Male	Kebithigollewa Base Hospital	false	DGI_PR_DOCS	0a044e907e2c6df916072d801d4bdac0
+2021-04-30-0001	2021-04-30T05:30:00.000+05:30	Sabaragamuwa	Ratnapura	Avissawella	FINE	72	Male	Teaching Hospital Jaffna	false	DGI_PR_DOCS	3f6ec708eecda64ab490d37c9562325f
+2021-04-30-0002	2021-04-30T05:30:00.000+05:30	Sabaragamuwa	Kegalle	Dewalegama	FINE	66	Female	Homagama Base Hospital	false	DGI_PR_DOCS	3f6ec708eecda64ab490d37c9562325f
+2021-04-30-0003	2021-04-30T05:30:00.000+05:30	Sabaragamuwa	Kegalle	Mawanella	FINE	79	Male	Teldeniya Base Hospital	false	DGI_PR_DOCS	3f6ec708eecda64ab490d37c9562325f
+2021-05-01-0001	2021-05-01T05:30:00.000+05:30	North Central	Polonnaruwa	Polonnaruwa	FINE	51	Male	Welikanda Covid-19 Treatment Center	false	DGI_PR_DOCS	0a044e907e2c6df916072d801d4bdac0
+2021-05-01-0002	2021-05-01T05:30:00.000+05:30	Central	Kandy		FINE	72	Male	National Hospital Kandy	false	DGI_PR_DOCS	0a044e907e2c6df916072d801d4bdac0
+2021-05-01-0003	2021-05-01T05:30:00.000+05:30	Western	Colombo	Malabe	FINE	87	Male	IDH	false	DGI_PR_DOCS	0a044e907e2c6df916072d801d4bdac0
+2021-05-02-0001	2021-05-02T05:30:00.000+05:30	Central	Kandy		FINE	79	Female	Teaching Hospital Peradeniya	false	DGI_PR_DOCS	0a044e907e2c6df916072d801d4bdac0
+2021-05-02-0002	2021-05-02T05:30:00.000+05:30	Western	Colombo		FINE	86	Female	IDH	false	DGI_PR_DOCS	0a044e907e2c6df916072d801d4bdac0
