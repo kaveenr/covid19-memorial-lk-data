@@ -1,4 +1,10 @@
 # DGI Data Explorer
+- [2021-09-12 -> Press Release - Covid 19 Infection Report](a430b9365459a4ec7cf183659c79347e.md)
+- [2021-09-12 -> Press Release - Covid 19 Infection Deaths](84b32d2d94e771defd34e78e6d87aa59.md)
+- [2021-09-12 -> Press Release - Press Release](156e5fe6f1f64085167e3e2efe4c069d.md)
+- [2021-09-11 -> Press Release - Covid 19 Infection Report](1b1cb7f5bc20223b5b0c5d6a996ecf3e.md)
+- [2021-09-11 -> Press Release - Covid 19 infection deaths](814ad8ce4c32e78510cea42b1bb78d0a.md)
+- [2021-09-11 -> Press Release - Press Release](4d071498034f910dddc4324de0cd3080.md)
 - [2021-09-10 -> Press Release - Covid 19 Infection Report](5ddc36106d1610aa4325c7df72c46012.md)
 - [2021-09-10 -> Press Release - Covid 19 Infection Deaths](51c1c1084b5be9398d46b60c998552a9.md)
 - [2021-09-10 -> Press Release - Press Release](5dd3ae2d42011fbe4e4c3b16344410ea.md)
