@@ -22,7 +22,7 @@ jobs:
         GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
         GOOGLE_PRIVATE_KEY: ${{ secrets.GOOGLE_PRIVATE_KEY }}
         GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
-        GOOGLE_GEO_SHEET_ID: ${{ GOOGLE_GEO_SHEET_ID }}
+        GOOGLE_GEO_SHEET_ID: ${{secrets.GOOGLE_GEO_SHEET_ID }}
       run: yarn build
     - name: Prepare Results
       run: |
