@@ -7,6 +7,7 @@ This repository contains software for compiling and aiding documentation of vict
 | Name | Type | Latest URL |
 | --- | --- | --- |
 | COVID-19 Deaths Dataset | Manually Processed | [TSV](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/covid19_deaths_latest.tsv), [JSON](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/covid19_deaths_latest.json)
+| Geo Daataset | Manually Processed | [JSON](https://raw.githubusercontent.com/kaveenr/covid19-memorial-lk-data/data/data/geo_processed_latest.json)
 | DGI PR Deaths Dataset | Automated | [TSV](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/dgi_reports_deaths_latest.tsv), [JSON](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/dgi_reports_deaths_latest.tsv)
 | DGI Press Releases | Automated | [TSV](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/dgi_reports_latest.tsv), [JSON](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/dgi_reports_latest.json), [MD](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/dig_reports/README.md) |
 | Individual Death Ids | Automated | [TSV](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/user_keys_latest.tsv), [JSON](https://github.com/kaveenr/covid19-memorial-lk-data/blob/data/data/user_keys_latest.json) |
