@@ -1,4 +1,11 @@
 # DGI Data Explorer
+- [2021-09-29 -> Press Release - Covid 19 Infection Report](dc5eed5336eb48047ff5235b07ac86bd.md)
+- [2021-09-29 -> Press Release - Press Release](46caefbf8cf84ab2a1d04327c3d9262f.md)
+- [2021-09-29 -> Press Release - Covid 19 Infection Deaths](a15bd720ff78037e01a511b8162d8f0f.md)
+- [2021-09-29 -> Press Release - Quarantine curfew will be lifted at 4.00 a.m. October 01 st](9f81f2c0851a7d6d630af3501bc11949.md)
+- [2021-09-28 -> Press Release - Covid 19 Infection Report](cb09562d1b16222e257d3683a63312c3.md)
+- [2021-09-28 -> Press Release - Press Release](4d6a2733ab037a6b377e4952c882c147.md)
+- [2021-09-28 -> Press Release - Covid 19 Infection Deaths](7cd59b3f6b30ae71e2390c60ca2cade2.md)
 - [2021-09-27 -> Press Release - Covid 19 Infection Report](bd7f7aa84b4374a509bb5c704a37a2cb.md)
 - [2021-09-27 -> Press Release - Press Release](87ba84e45fee13fa95c329a05648e238.md)
 - [2021-09-27 -> Press Release - Covid 19 Infection Deaths](be4784cabc29bfb1faae190126b45413.md)
