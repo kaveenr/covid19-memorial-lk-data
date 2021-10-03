@@ -33,7 +33,7 @@ indexKey	deathDate	province	district	city	ageType	ageValue	gender	deathPlace	inc
 2020-11-25-0002	2020-11-25T05:30:00.000+05:30	Western	Colombo	Pannipitiya	FINE	80	Male	Pimbura Base Hospital 	false	DGI_PR_DOCS	4e1f5f2df48cae10bdb93f17654c8550
 2020-11-25-0003	2020-11-25T05:30:00.000+05:30	Western	Colombo	Maradana	FINE	78	Female	Residence	false	DGI_PR_DOCS	ec0253b9178da11efb08788c11b43673
 2020-11-25-0004	2020-11-25T05:30:00.000+05:30	Western	Colombo	Colombo 13	FINE	69	Male	Residence	false	DGI_PR_DOCS	ec0253b9178da11efb08788c11b43673
-2020-11-25-0005	2020-11-25T05:30:00.000+05:30	Western	Colombo	name_en	FINE	70	Male	Prison Hospital	false	DGI_PR_DOCS	ec0253b9178da11efb08788c11b43673
+2020-11-25-0005	2020-11-25T05:30:00.000+05:30	Western	Colombo	Maradana	FINE	70	Male	Prison Hospital	false	DGI_PR_DOCS	ec0253b9178da11efb08788c11b43673
 2020-11-26-0001	2020-11-26T05:30:00.000+05:30	Western	Colombo	Colombo 2	FINE	76	Male	Colombo General Hospital	false	DGI_PR_DOCS	42aa804e3d80786234dc90544ed2a32b
 2020-11-26-0002	2020-11-26T05:30:00.000+05:30	Western	Colombo	Colombo 8	FINE	87	Male	General Hospital Colombo	false	DGI_PR_DOCS	855954d95bd34a243c4b10c06095055a
 2020-11-26-0003	2020-11-26T05:30:00.000+05:30	Western	Colombo	Colombo 2	FINE	83	Male	Residence	false	DGI_PR_DOCS	ec0253b9178da11efb08788c11b43673
