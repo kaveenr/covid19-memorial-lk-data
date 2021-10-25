@@ -489,7 +489,6 @@ indexKey	deathDate	province	district	city	ageType	ageValue	gender	deathPlace	inc
 2021-04-16-0001	2021-04-16T05:30:00.000+05:30	Western	Colombo	Kelaniya	FINE	73	Female	National Hospital, Colombo	false	DGI_PR_DOCS	dc3257c53a7fd067b7098696b8f7fe2d
 2021-04-16-0002	2021-04-16T05:30:00.000+05:30	North Western	Kurunegala	Kurunegala	FINE	71	Male	Private Hospital, Colombo	false	DGI_PR_DOCS	dc3257c53a7fd067b7098696b8f7fe2d
 2021-04-16-0003	2021-04-16T05:30:00.000+05:30	Western	Colombo	Colombo 15	FINE	85	Female	Base Hospital, Mulleriyawa	false	DGI_PR_DOCS	77da8de67647c7013b616344170b2e55
-2021-04-16-0004	2021-04-16T05:30:00.000+05:30	North Western							false		
 2021-04-17-0001	2021-04-17T05:30:00.000+05:30	Southern	Matara	Pitabeddara	FINE	52	Male	IDH	false	DGI_PR_DOCS	e198970d3390d3bf304052bdb377d24c
 2021-04-17-0002	2021-04-17T05:30:00.000+05:30	North Western	Kurunegala	Maho	FINE	58	Female	Teaching Hospital, Anuradhapura	false	DGI_PR_DOCS	c0bec57d099628d8cf1c4156b9962f2f
 2021-04-17-0003	2021-04-17T05:30:00.000+05:30	Western	Kalutara	Panadura	FINE	67	Female	Base Hospital, Mulleriyawa	false	DGI_PR_DOCS	77da8de67647c7013b616344170b2e55
@@ -527,7 +526,7 @@ indexKey	deathDate	province	district	city	ageType	ageValue	gender	deathPlace	inc
 2021-04-25-0005	2021-04-02T05:30:00.000+05:30	Sabaragamuwa	Kegalle	Deewala Pallegama	FINE	57	Male	Base Hospital, Mawanella	false	DGI_PR_DOCS	db8c6b9861d8aaf8b713787afa219b3d
 2021-04-25-0006	2021-04-25T05:30:00.000+05:30	Western	Gampaha	Kelaniya	FINE	79	Female	Neville Fernando Hospital	false	DGI_PR_DOCS	ec9afd302d72d4b6078e50caa9633d73
 2021-04-25-0007	2021-04-25T05:30:00.000+05:30	North Central	Polonnaruwa	Polonnaruwa	FINE	73	Male	Anuradhapura Teaching Hospital	false	DGI_PR_DOCS	ec9afd302d72d4b6078e50caa9633d73
-2021-04-26-0001	2021-04-26T05:30:00.000+05:30	Western	Kalutara			76	Female	District Hospital, Kalutara	false	DGI_PR_DOCS	
+2021-04-26-0001	2021-04-26T05:30:00.000+05:30	Western	Kalutara		FINE	76	Female	District Hospital, Kalutara	false	DGI_PR_DOCS	
 2021-04-26-0002	2021-04-26T05:30:00.000+05:30	North Western	Kurunegala	Sunandapura	FINE	63	Female	Iranawila covid treatment center	false	DGI_PR_DOCS	7c7d4eb8bccfa81a38fb8a3d66decd53
 2021-04-26-0003	2021-04-26T05:30:00.000+05:30	Western	Kalutara	Galpatha	FINE	70	Female	District Hospital, Kalutara	false	DGI_PR_DOCS	88e7e8ff52ea4b33801bb80bfa7b792f
 2021-04-26-0004	2021-04-26T05:30:00.000+05:30	Western	Colombo	Avissawella	FINE	70	Female	Neville Fernando, Hospital	false	DGI_PR_DOCS	88e7e8ff52ea4b33801bb80bfa7b792f
