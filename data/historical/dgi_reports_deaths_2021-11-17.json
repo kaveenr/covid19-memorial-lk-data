@@ -1,0 +1,1228 @@
+[
+    {
+        "fuzzyKey": "a33014c02c3b5e41598c843403753d20",
+        "date": "2021-11-10T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 7,
+        "ageAbove60Female": 7
+    },
+    {
+        "fuzzyKey": "92009c139654956e888e6fc649cc2122",
+        "date": "2021-11-09T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 8,
+        "ageAbove60Female": 6
+    },
+    {
+        "fuzzyKey": "b2852c35cf4e2cb66b7d1c16015f0e05",
+        "date": "2021-11-08T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 3,
+        "ageAbove60Male": 8,
+        "ageAbove60Female": 3
+    },
+    {
+        "fuzzyKey": "e1dc8f113d578ef5806389b1d8b5df6d",
+        "date": "2021-11-07T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 7,
+        "ageAbove60Female": 5
+    },
+    {
+        "fuzzyKey": "1153355d9772265daddcca28f4f6ea02",
+        "date": "2021-11-06T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 3,
+        "age30to59Female": 3,
+        "ageAbove60Male": 7,
+        "ageAbove60Female": 7
+    },
+    {
+        "fuzzyKey": "84da8130e6f9ef6cb405594023cd1dab",
+        "date": "2021-11-05T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 5,
+        "ageAbove60Female": 8
+    },
+    {
+        "fuzzyKey": "a64d129eae0f3a3024e31c1b0dd7134f",
+        "date": "2021-11-04T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 7,
+        "ageAbove60Female": 5
+    },
+    {
+        "fuzzyKey": "0a4a60ea8a0dcaa6e6ba2ca984e8e344",
+        "date": "2021-11-03T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 0,
+        "age30to59Female": 5,
+        "ageAbove60Male": 6,
+        "ageAbove60Female": 10
+    },
+    {
+        "fuzzyKey": "952a94c31192642c4820806e86f1cd36",
+        "date": "2021-11-02T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "ageAbove60Male": 4,
+        "ageAbove60Female": 4
+    },
+    {
+        "fuzzyKey": "66637a87f127e4ed369a9f3c39b10df1",
+        "date": "2021-11-01T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 2,
+        "age30to59Female": 4,
+        "ageAbove60Male": 9,
+        "ageAbove60Female": 2
+    },
+    {
+        "fuzzyKey": "81ef0fe790d3f366c06e48ed98915474",
+        "date": "2021-10-31T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 0,
+        "age30to59Female": 0,
+        "ageAbove60Male": 10,
+        "ageAbove60Female": 8
+    },
+    {
+        "fuzzyKey": "0b52b755b12a723426094075d2be0fd4",
+        "date": "2021-10-30T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 2,
+        "ageAbove60Male": 7,
+        "ageAbove60Female": 5
+    },
+    {
+        "fuzzyKey": "ff6d0b1978ba2d71537c74f91b013618",
+        "date": "2021-10-29T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 2,
+        "age30to59Female": 3,
+        "ageAbove60Male": 5,
+        "ageAbove60Female": 0
+    },
+    {
+        "fuzzyKey": "4547fa596a94e100a60a0b5498ae0e8a",
+        "date": "2021-10-28T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 3,
+        "age30to59Female": 3,
+        "ageAbove60Male": 6,
+        "ageAbove60Female": 9
+    },
+    {
+        "fuzzyKey": "42f55f32c64543c465c3b1bb6e40fb7c",
+        "date": "2021-10-27T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 3,
+        "ageAbove60Male": 6,
+        "ageAbove60Female": 6
+    },
+    {
+        "fuzzyKey": "25cc7f648c7a7aa136df38df11e7bc42",
+        "date": "2021-10-26T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 7,
+        "ageAbove60Female": 4
+    },
+    {
+        "fuzzyKey": "e05327e917b77e8461c2d87a1f4bdc63",
+        "date": "2021-10-25T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 2,
+        "age30to59Female": 4,
+        "ageAbove60Male": 9,
+        "ageAbove60Female": 13
+    },
+    {
+        "fuzzyKey": "7ef414d451d9adc200789b7ba80780ac",
+        "date": "2021-10-24T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "ageAbove60Male": 6,
+        "ageAbove60Female": 6
+    },
+    {
+        "fuzzyKey": "3c539983ce3bcf8611ea62adedcb848d",
+        "date": "2021-10-23T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 2,
+        "age30to59Female": 3,
+        "ageAbove60Male": 7,
+        "ageAbove60Female": 7
+    },
+    {
+        "fuzzyKey": "a7c54a9aadc49f11ae180250130d55ac",
+        "date": "2021-10-22T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 4,
+        "ageAbove60Female": 4
+    },
+    {
+        "fuzzyKey": "38af0dfbedb8887fc88f5d0fded5b555",
+        "date": "2021-10-21T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 2,
+        "age30to59Female": 2,
+        "ageAbove60Male": 9,
+        "ageAbove60Female": 6
+    },
+    {
+        "fuzzyKey": "16dcb3d0000404ab8135e4da8fa151b5",
+        "date": "2021-10-20T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 9,
+        "ageAbove60Female": 6
+    },
+    {
+        "fuzzyKey": "36180c4b63bc912d560f018a4ca45a5d",
+        "date": "2021-10-19T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 3,
+        "age30to59Female": 3,
+        "ageAbove60Male": 6,
+        "ageAbove60Female": 5
+    },
+    {
+        "fuzzyKey": "bf225cd09b7f141eb44a6557cc7db4ae",
+        "date": "2021-10-18T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 9,
+        "ageAbove60Female": 12
+    },
+    {
+        "fuzzyKey": "9f3b6e02131f6109dbcd9ddefe1a6aec",
+        "date": "2021-10-17T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 6,
+        "ageAbove60Female": 3
+    },
+    {
+        "fuzzyKey": "1bd4459cd5509193dc106a27cfa75018",
+        "date": "2021-10-16T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 0,
+        "ageAbove60Male": 12,
+        "ageAbove60Female": 6
+    },
+    {
+        "fuzzyKey": "349c885fb415b179074db5eecfd00657",
+        "date": "2021-10-15T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 3,
+        "age30to59Female": 2,
+        "ageAbove60Male": 8,
+        "ageAbove60Female": 6
+    },
+    {
+        "fuzzyKey": "c3691ec78ddbefd9c7bd2c4e05e93f39",
+        "date": "2021-10-14T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 11,
+        "ageAbove60Female": 5
+    },
+    {
+        "fuzzyKey": "5839f30e8cf137d5dce15f7a7c80e995",
+        "date": "2021-10-13T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 4,
+        "age30to59Female": 4,
+        "ageAbove60Male": 16,
+        "ageAbove60Female": 7
+    },
+    {
+        "fuzzyKey": "286200112691870082232d3e592773df",
+        "date": "2021-10-12T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0
+    },
+    {
+        "fuzzyKey": "913199450c5cb086e1b219cb6e38e4bc",
+        "date": "2021-10-11T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 10,
+        "ageAbove60Female": 8
+    },
+    {
+        "fuzzyKey": "b5978ecdf14803fa61fb587113394756",
+        "date": "2021-10-10T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "ageAbove60Male": 15,
+        "ageAbove60Female": 15
+    },
+    {
+        "fuzzyKey": "9990346469028388e98bf23317df8d84",
+        "date": "2021-10-09T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 4,
+        "age30to59Female": 2,
+        "ageAbove60Male": 14,
+        "ageAbove60Female": 9
+    },
+    {
+        "fuzzyKey": "302880ad83433108574a356edfac28bd",
+        "date": "2021-10-08T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 7
+    },
+    {
+        "fuzzyKey": "ed00d2342e56db43ca3400be73d76a8c",
+        "date": "2021-10-07T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "ageAbove60Male": 24,
+        "ageAbove60Female": 15
+    },
+    {
+        "fuzzyKey": "2f6735016112b8e1473192d4ec48fa8b",
+        "date": "2021-10-06T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 2,
+        "ageAbove60Male": 18,
+        "ageAbove60Female": 18
+    },
+    {
+        "fuzzyKey": "d81df525d188889a76e8b29121a9334d",
+        "date": "2021-10-05T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 19,
+        "ageAbove60Female": 17
+    },
+    {
+        "fuzzyKey": "fd50af8992a511b89baf96bdf1564537",
+        "date": "2021-10-04T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 10,
+        "age30to59Female": 2,
+        "ageAbove60Male": 14,
+        "ageAbove60Female": 17
+    },
+    {
+        "fuzzyKey": "f920e8acd96e35b42d1a9dde072b0aa8",
+        "date": "2021-10-03T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "ageAbove60Male": 14,
+        "ageAbove60Female": 14
+    },
+    {
+        "fuzzyKey": "c4707e0d90bfab5efe145835518613fb",
+        "date": "2021-10-02T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 2,
+        "ageAbove60Male": 27,
+        "ageAbove60Female": 11
+    },
+    {
+        "fuzzyKey": "59d6e8971bf41e2b8f216c139dac79e1",
+        "date": "2021-10-01T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 18,
+        "ageAbove60Female": 30
+    },
+    {
+        "fuzzyKey": "c32cee62eacae1d1fa0c54ea7d13bb81",
+        "date": "2021-09-30T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "ageAbove60Male": 20,
+        "ageAbove60Female": 27
+    },
+    {
+        "fuzzyKey": "a15bd720ff78037e01a511b8162d8f0f",
+        "date": "2021-09-29T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 9,
+        "age30to59Female": 5,
+        "ageAbove60Male": 16,
+        "ageAbove60Female": 31
+    },
+    {
+        "fuzzyKey": "7cd59b3f6b30ae71e2390c60ca2cade2",
+        "date": "2021-09-28T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 10,
+        "age30to59Female": 6,
+        "ageAbove60Male": 19,
+        "ageAbove60Female": 20
+    },
+    {
+        "fuzzyKey": "be4784cabc29bfb1faae190126b45413",
+        "date": "2021-09-27T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 5,
+        "ageAbove60Male": 24,
+        "ageAbove60Female": 17
+    },
+    {
+        "fuzzyKey": "6193f89ae310b6a0607c34bda0a6053b",
+        "date": "2021-09-26T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 6,
+        "age30to59Female": 8,
+        "ageAbove60Male": 26,
+        "ageAbove60Female": 30
+    },
+    {
+        "fuzzyKey": "0e7c85a6578928383a27b1f11360f28c",
+        "date": "2021-09-25T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 10,
+        "age30to59Female": 12,
+        "ageAbove60Male": 31,
+        "ageAbove60Female": 26
+    },
+    {
+        "fuzzyKey": "77418ac05a3eff21cd4235ff8c9871be",
+        "date": "2021-09-24T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 16,
+        "age30to59Female": 5,
+        "ageAbove60Male": 35,
+        "ageAbove60Female": 26
+    },
+    {
+        "fuzzyKey": "98831e017e04cf802bc0b779a6e5bb06",
+        "date": "2021-09-23T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 9,
+        "age30to59Female": 3,
+        "ageAbove60Male": 33,
+        "ageAbove60Female": 27
+    },
+    {
+        "fuzzyKey": "6a4de1966b0680aaad30b15939220cb9",
+        "date": "2021-09-22T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 1,
+        "age30to59Male": 11,
+        "age30to59Female": 8,
+        "ageAbove60Male": 39,
+        "ageAbove60Female": 32
+    },
+    {
+        "fuzzyKey": "67b4e38b831d6e2841238b970f8abe74",
+        "date": "2021-09-21T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 1,
+        "ageAbove60Male": 23,
+        "ageAbove60Female": 30
+    },
+    {
+        "fuzzyKey": "532ec924487601d709093862a0d81338",
+        "date": "2021-09-20T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 32,
+        "ageAbove60Female": 36
+    },
+    {
+        "fuzzyKey": "24e198a014670cc0b60706577f81a749",
+        "date": "2021-09-19T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 1,
+        "age30to59Male": 11,
+        "age30to59Female": 13,
+        "ageAbove60Male": 44,
+        "ageAbove60Female": 33
+    },
+    {
+        "fuzzyKey": "4a259fdbbf8f2f3319acdb94f0e0af3c",
+        "date": "2021-09-18T05:30:00.000+05:30",
+        "ageBelow30Male": 2,
+        "ageBelow30Female": 1,
+        "age30to59Male": 15,
+        "age30to59Female": 8,
+        "ageAbove60Male": 34,
+        "ageAbove60Female": 24
+    },
+    {
+        "fuzzyKey": "8e7cf72093dab59ab41e69a969bfde4a",
+        "date": "2021-09-17T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 16,
+        "age30to59Female": 12,
+        "ageAbove60Male": 45,
+        "ageAbove60Female": 47
+    },
+    {
+        "fuzzyKey": "dbd5519ab5a1943cf9683d8d17dd3a9d",
+        "date": "2021-09-16T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 49,
+        "ageAbove60Female": 46
+    },
+    {
+        "fuzzyKey": "342fc90d16300d126513bd0312b8206e",
+        "date": "2021-09-15T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 2,
+        "age30to59Male": 18,
+        "age30to59Female": 10,
+        "ageAbove60Male": 47,
+        "ageAbove60Female": 54
+    },
+    {
+        "fuzzyKey": "4c9e14f2167d41c3da077d0a6de45f69",
+        "date": "2021-09-14T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 1,
+        "age30to59Male": 15,
+        "age30to59Female": 13
+    },
+    {
+        "fuzzyKey": "279ccc6e032021a46d680f90dd58c94b",
+        "date": "2021-09-13T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 12,
+        "age30to59Female": 14,
+        "ageAbove60Male": 59,
+        "ageAbove60Female": 50
+    },
+    {
+        "fuzzyKey": "84b32d2d94e771defd34e78e6d87aa59",
+        "date": "2021-09-12T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 16,
+        "age30to59Female": 5,
+        "ageAbove60Male": 61,
+        "ageAbove60Female": 61
+    },
+    {
+        "fuzzyKey": "814ad8ce4c32e78510cea42b1bb78d0a",
+        "date": "2021-09-11T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 3,
+        "age30to59Male": 6,
+        "age30to59Female": 17,
+        "ageAbove60Male": 63,
+        "ageAbove60Female": 67
+    },
+    {
+        "fuzzyKey": "51c1c1084b5be9398d46b60c998552a9",
+        "date": "2021-09-10T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 8,
+        "age30to59Female": 12,
+        "ageAbove60Male": 64,
+        "ageAbove60Female": 46
+    },
+    {
+        "fuzzyKey": "a5147a01bc1550a1dd85110a67a983d7",
+        "date": "2021-09-09T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 19,
+        "age30to59Female": 16
+    },
+    {
+        "fuzzyKey": "f31a502eaff9468ee814840f38ee04fa",
+        "date": "2021-09-08T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 25,
+        "age30to59Female": 19,
+        "ageAbove60Male": 76,
+        "ageAbove60Female": 64
+    },
+    {
+        "fuzzyKey": "cc9606c65dd26ca19fa2d47368af1095",
+        "date": "2021-09-07T05:30:00.000+05:30",
+        "ageBelow30Male": 3,
+        "ageBelow30Female": 1,
+        "age30to59Male": 26,
+        "age30to59Female": 20,
+        "ageAbove60Male": 68,
+        "ageAbove60Female": 66
+    },
+    {
+        "fuzzyKey": "303456cb011a00d63babdb679eb1e530",
+        "date": "2021-09-06T05:30:00.000+05:30",
+        "ageBelow30Male": 5,
+        "ageBelow30Female": 2,
+        "age30to59Male": 24,
+        "age30to59Female": 16,
+        "ageAbove60Male": 68,
+        "ageAbove60Female": 65
+    },
+    {
+        "fuzzyKey": "d5444f76223df521e7e9a82cdd4969c9",
+        "date": "2021-09-05T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 20,
+        "age30to59Female": 14,
+        "ageAbove60Male": 76,
+        "ageAbove60Female": 78
+    },
+    {
+        "fuzzyKey": "ab78bdac7cdf040e3bf2f10945866dda",
+        "date": "2021-09-04T05:30:00.000+05:30",
+        "ageBelow30Male": 3,
+        "ageBelow30Female": 1,
+        "age30to59Male": 19,
+        "age30to59Female": 5,
+        "ageAbove60Male": 55,
+        "ageAbove60Female": 62
+    },
+    {
+        "fuzzyKey": "5069e56ceed4a061cbb9becab0dbce11",
+        "date": "2021-09-03T05:30:00.000+05:30",
+        "ageBelow30Male": 2,
+        "ageBelow30Female": 3,
+        "age30to59Male": 24,
+        "age30to59Female": 18,
+        "ageAbove60Male": 87,
+        "ageAbove60Female": 68
+    },
+    {
+        "fuzzyKey": "f2a2bed49912fa7f249db381bbbf9e03",
+        "date": "2021-09-02T05:30:00.000+05:30",
+        "ageBelow30Male": 3,
+        "ageBelow30Female": 2,
+        "age30to59Male": 30,
+        "age30to59Female": 20,
+        "ageAbove60Male": 76,
+        "ageAbove60Female": 73
+    },
+    {
+        "fuzzyKey": "758ff4e131dbfe9d97754fa44fc22562",
+        "date": "2021-09-01T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 1,
+        "age30to59Male": 28,
+        "age30to59Female": 18,
+        "ageAbove60Male": 86,
+        "ageAbove60Female": 81
+    },
+    {
+        "fuzzyKey": "526fcd6e91c350787e66dfec113bde7b",
+        "date": "2021-08-31T05:30:00.000+05:30",
+        "ageBelow30Male": 2,
+        "ageBelow30Female": 1,
+        "age30to59Male": 31,
+        "age30to59Female": 14,
+        "ageAbove60Male": 67,
+        "ageAbove60Female": 79
+    },
+    {
+        "fuzzyKey": "8181fdbbbfc0620a54c0a212e0ab9a58",
+        "date": "2021-08-30T05:30:00.000+05:30",
+        "ageBelow30Male": 3,
+        "ageBelow30Female": 2,
+        "age30to59Male": 21,
+        "age30to59Female": 20,
+        "ageAbove60Male": 91,
+        "ageAbove60Female": 79
+    },
+    {
+        "fuzzyKey": "4768547f39b66b2121fc7a7c1632950d",
+        "date": "2021-08-29T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 84,
+        "ageAbove60Female": 72
+    },
+    {
+        "fuzzyKey": "948797a62c6a6f03746f1cbdbb49953b",
+        "date": "2021-08-28T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 1,
+        "age30to59Male": 20,
+        "age30to59Female": 17,
+        "ageAbove60Male": 88,
+        "ageAbove60Female": 85
+    },
+    {
+        "fuzzyKey": "12f057c2e1daaccb1ae9c3f48c0e9aa2",
+        "date": "2021-08-27T05:30:00.000+05:30",
+        "ageBelow30Male": 3,
+        "ageBelow30Female": 2,
+        "age30to59Male": 34,
+        "age30to59Female": 24,
+        "ageAbove60Male": 83,
+        "ageAbove60Female": 68
+    },
+    {
+        "fuzzyKey": "c0b44000a83de01c99da96a1a3cacd47",
+        "date": "2021-08-26T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 31,
+        "age30to59Female": 15,
+        "ageAbove60Male": 77,
+        "ageAbove60Female": 86
+    },
+    {
+        "fuzzyKey": "5de5f95ead145d9fd4cb7c8f1849447a",
+        "date": "2021-08-25T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 37,
+        "age30to59Female": 14,
+        "ageAbove60Male": 81,
+        "ageAbove60Female": 65
+    },
+    {
+        "fuzzyKey": "b95f58d16e746621f87528c866b228ea",
+        "date": "2021-08-24T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 1,
+        "age30to59Male": 21,
+        "age30to59Female": 17,
+        "ageAbove60Male": 91,
+        "ageAbove60Female": 59
+    },
+    {
+        "fuzzyKey": "ce3ccaba05da938b21c426c146756e6a",
+        "date": "2021-08-23T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 20,
+        "age30to59Female": 29,
+        "ageAbove60Male": 71,
+        "ageAbove60Female": 74
+    },
+    {
+        "fuzzyKey": "bb67886cceeacf3ae6d5dd495de247a3",
+        "date": "2021-08-22T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 2,
+        "age30to59Male": 27,
+        "age30to59Female": 18,
+        "ageAbove60Male": 80,
+        "ageAbove60Female": 56
+    },
+    {
+        "fuzzyKey": "81c238767b2dd438cc72a33f6f84b413",
+        "date": "2021-08-21T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 28,
+        "age30to59Female": 16,
+        "ageAbove60Male": 89,
+        "ageAbove60Female": 65
+    },
+    {
+        "fuzzyKey": "33a6b97d2f0a4d1a2f4d1e534623d6da",
+        "date": "2021-08-20T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 25,
+        "age30to59Female": 18,
+        "ageAbove60Male": 72,
+        "ageAbove60Female": 79
+    },
+    {
+        "fuzzyKey": "425c74564ee65ffae232bf0c0f0f6da2",
+        "date": "2021-08-19T05:30:00.000+05:30",
+        "ageBelow30Male": 3,
+        "ageBelow30Female": 1,
+        "age30to59Male": 17,
+        "age30to59Female": 18,
+        "ageAbove60Male": 91,
+        "ageAbove60Female": 56
+    },
+    {
+        "fuzzyKey": "1b55a58819ce2304d1be968f736bc2d4",
+        "date": "2021-08-18T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 24,
+        "age30to59Female": 16,
+        "ageAbove60Male": 60,
+        "ageAbove60Female": 70
+    },
+    {
+        "fuzzyKey": "15f269b69ca50b6730c15747eb7bd244",
+        "date": "2021-08-17T05:30:00.000+05:30",
+        "ageBelow30Male": 2,
+        "ageBelow30Female": 0,
+        "age30to59Male": 23,
+        "age30to59Female": 12,
+        "ageAbove60Male": 77,
+        "ageAbove60Female": 57
+    },
+    {
+        "fuzzyKey": "b5caabc6d0e5002fe4db9c5e0f8a81b1",
+        "date": "2021-08-16T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 22,
+        "age30to59Female": 14,
+        "ageAbove60Male": 80,
+        "ageAbove60Female": 50
+    },
+    {
+        "fuzzyKey": "a8be0c65c3964aeea6a29d95221c4938",
+        "date": "2021-08-15T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 22,
+        "age30to59Female": 16,
+        "ageAbove60Male": 61,
+        "ageAbove60Female": 61
+    },
+    {
+        "fuzzyKey": "c1dcb6fb7bc75c129b74591873625de0",
+        "date": "2021-08-13T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 3,
+        "age30to59Male": 27,
+        "age30to59Female": 14
+    },
+    {
+        "fuzzyKey": "e89a89e148f30eab47f4c817644a6077",
+        "date": "2021-08-12T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 22,
+        "age30to59Female": 13,
+        "ageAbove60Male": 65,
+        "ageAbove60Female": 56
+    },
+    {
+        "fuzzyKey": "8c04080ccfbcd483122cc0a4786c4e80",
+        "date": "2021-08-11T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 19,
+        "age30to59Female": 9,
+        "ageAbove60Male": 55,
+        "ageAbove60Female": 40
+    },
+    {
+        "fuzzyKey": "7a51a651654a93879380aad0c393e19a",
+        "date": "2021-08-10T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 15,
+        "age30to59Female": 2,
+        "ageAbove60Male": 64,
+        "ageAbove60Female": 37
+    },
+    {
+        "fuzzyKey": "cde70fb9d859a4b9ee5068a95045426a",
+        "date": "2021-08-09T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 15,
+        "age30to59Female": 6,
+        "ageAbove60Male": 41,
+        "ageAbove60Female": 49
+    },
+    {
+        "fuzzyKey": "b9f4cda360337376c45197313a67ef77",
+        "date": "2021-08-08T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 14,
+        "age30to59Female": 8,
+        "ageAbove60Male": 54,
+        "ageAbove60Female": 17
+    },
+    {
+        "fuzzyKey": "89e1944418539e0de39bd30db59d41da",
+        "date": "2021-08-07T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 12,
+        "age30to59Female": 8,
+        "ageAbove60Male": 35,
+        "ageAbove60Female": 43
+    },
+    {
+        "fuzzyKey": "cda6b22b9095811e1557190cda0489cf",
+        "date": "2021-08-06T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 37,
+        "ageAbove60Female": 33
+    },
+    {
+        "fuzzyKey": "f46672217caf5b6823e7bb1c19ca8cb7",
+        "date": "2021-08-05T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 2,
+        "age30to59Male": 12,
+        "age30to59Female": 7,
+        "ageAbove60Male": 37,
+        "ageAbove60Female": 36
+    },
+    {
+        "fuzzyKey": "98e31a277df65ae361d872584e6bf79f",
+        "date": "2021-08-04T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 14,
+        "age30to59Female": 8,
+        "ageAbove60Male": 27,
+        "ageAbove60Female": 33
+    },
+    {
+        "fuzzyKey": "62a63c77392004f86508bc162cc95262",
+        "date": "2021-08-02T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 10,
+        "age30to59Female": 7,
+        "ageAbove60Male": 26,
+        "ageAbove60Female": 20
+    },
+    {
+        "fuzzyKey": "1e8bbae42cc575250dd7514298e3739c",
+        "date": "2021-08-01T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 26,
+        "ageAbove60Female": 30
+    },
+    {
+        "fuzzyKey": "5dd6fef6195638c77bea5ede18510e82",
+        "date": "2021-07-30T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 12,
+        "age30to59Female": 3,
+        "ageAbove60Male": 26,
+        "ageAbove60Female": 15
+    },
+    {
+        "fuzzyKey": "ed1526cbc3bb04dc45fa8d24c5eb441d",
+        "date": "2021-07-29T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 12,
+        "age30to59Female": 5
+    },
+    {
+        "fuzzyKey": "bb83e642ec4deccc1affba22e8f2a67c",
+        "date": "2021-07-28T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "ageAbove60Male": 30,
+        "ageAbove60Female": 21
+    },
+    {
+        "fuzzyKey": "4188179410996a9e237abd119fe9bec0",
+        "date": "2021-07-27T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 6,
+        "age30to59Female": 3,
+        "ageAbove60Male": 22,
+        "ageAbove60Female": 16
+    },
+    {
+        "fuzzyKey": "72850c504af137e595a353117d62b864",
+        "date": "2021-07-26T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 6,
+        "age30to59Female": 6,
+        "ageAbove60Male": 24,
+        "ageAbove60Female": 12
+    },
+    {
+        "fuzzyKey": "33205c6baea7e20390f5515642892b2e",
+        "date": "2021-07-25T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 3,
+        "age30to59Female": 4,
+        "ageAbove60Male": 19,
+        "ageAbove60Female": 18
+    },
+    {
+        "fuzzyKey": "d3bf9ea82b48a3cc9161727ede2302d5",
+        "date": "2021-07-24T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 7,
+        "age30to59Female": 5,
+        "ageAbove60Male": 18,
+        "ageAbove60Female": 21
+    },
+    {
+        "fuzzyKey": "abfd9896ca6686d7e15efada3836edee",
+        "date": "2021-07-23T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 4,
+        "age30to59Female": 4,
+        "ageAbove60Male": 22,
+        "ageAbove60Female": 13
+    },
+    {
+        "fuzzyKey": "e83b73d57b8e2b785c2008b03790196e",
+        "date": "2021-07-22T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 4,
+        "age30to59Female": 2,
+        "ageAbove60Male": 21,
+        "ageAbove60Female": 14
+    },
+    {
+        "fuzzyKey": "9eec530cadb7f55a0dc4befaf76be045",
+        "date": "2021-07-21T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 10,
+        "age30to59Female": 4,
+        "ageAbove60Male": 16,
+        "ageAbove60Female": 17
+    },
+    {
+        "fuzzyKey": "7196977558d870edef5dab6cf7a29caa",
+        "date": "2021-07-20T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 16,
+        "ageAbove60Female": 15
+    },
+    {
+        "fuzzyKey": "5d41332c691337a024e074e15b93f153",
+        "date": "2021-07-19T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 5,
+        "age30to59Female": 5,
+        "ageAbove60Male": 23,
+        "ageAbove60Female": 14
+    },
+    {
+        "fuzzyKey": "67a19cf5bc13e3947ba37c84c2969fa8",
+        "date": "2021-07-18T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 8,
+        "age30to59Female": 5,
+        "ageAbove60Male": 22,
+        "ageAbove60Female": 11
+    },
+    {
+        "fuzzyKey": "fc9d8b417f8fbfbc7b0c4fc24c7445c1",
+        "date": "2021-07-17T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 6,
+        "age30to59Female": 2,
+        "ageAbove60Male": 11,
+        "ageAbove60Female": 12
+    },
+    {
+        "fuzzyKey": "0898fb018a176c0677562054de3e9f28",
+        "date": "2021-07-16T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 9,
+        "age30to59Female": 3,
+        "ageAbove60Male": 14,
+        "ageAbove60Female": 15
+    },
+    {
+        "fuzzyKey": "336f64c819df80037fe5530a273e21aa",
+        "date": "2021-07-15T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 8,
+        "age30to59Female": 4,
+        "ageAbove60Male": 21,
+        "ageAbove60Female": 17
+    },
+    {
+        "fuzzyKey": "d71e1a5381b95d797a82022cad824df0",
+        "date": "2021-07-14T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 2,
+        "ageAbove60Male": 13,
+        "ageAbove60Female": 17
+    },
+    {
+        "fuzzyKey": "deb6658aa902807e7ec945ace191adc2",
+        "date": "2021-07-13T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 7,
+        "age30to59Female": 5,
+        "ageAbove60Male": 15,
+        "ageAbove60Female": 13
+    },
+    {
+        "fuzzyKey": "83709abfa018430c1284e52e79d3875e",
+        "date": "2021-07-12T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 3,
+        "age30to59Female": 2,
+        "ageAbove60Male": 13,
+        "ageAbove60Female": 13
+    },
+    {
+        "fuzzyKey": "f50d4bb33c7fe86d80524025d65f997d",
+        "date": "2021-07-11T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 5,
+        "ageAbove60Male": 12,
+        "ageAbove60Female": 13
+    },
+    {
+        "fuzzyKey": "306de535c26df8282fedf7c7342eb78a",
+        "date": "2021-07-10T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 1,
+        "age30to59Male": 2,
+        "age30to59Female": 3,
+        "ageAbove60Male": 17,
+        "ageAbove60Female": 10
+    },
+    {
+        "fuzzyKey": "82c933381c0f3c3cee7f78b7db54d813",
+        "date": "2021-07-09T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 7,
+        "age30to59Female": 7,
+        "ageAbove60Male": 23,
+        "ageAbove60Female": 6
+    },
+    {
+        "fuzzyKey": "c17ab6b15214a6a4385024a1b6a4ae01",
+        "date": "2021-07-08T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "ageAbove60Male": 18,
+        "ageAbove60Female": 10
+    },
+    {
+        "fuzzyKey": "2b60344432e84c72e8a5bedd82de7b70",
+        "date": "2021-07-07T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 1,
+        "age30to59Male": 5,
+        "age30to59Female": 2,
+        "ageAbove60Male": 15,
+        "ageAbove60Female": 14
+    },
+    {
+        "fuzzyKey": "1d74075a3516f37b9d5686c0286bcebf",
+        "date": "2021-07-06T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 6,
+        "age30to59Female": 2,
+        "ageAbove60Male": 23,
+        "ageAbove60Female": 13
+    },
+    {
+        "fuzzyKey": "55e3cc2f8ceb800d7e9e6379c68abe62",
+        "date": "2021-07-05T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 5,
+        "ageAbove60Male": 8,
+        "ageAbove60Female": 13
+    },
+    {
+        "fuzzyKey": "b9b9968b341622faf63a2f6caf6e9cbc",
+        "date": "2021-07-04T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 7,
+        "age30to59Female": 3,
+        "ageAbove60Male": 13,
+        "ageAbove60Female": 22
+    },
+    {
+        "fuzzyKey": "fc609de145c288d8494b627291de3c92",
+        "date": "2021-07-03T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 3,
+        "age30to59Female": 3,
+        "ageAbove60Male": 18,
+        "ageAbove60Female": 10
+    },
+    {
+        "fuzzyKey": "fb8b2de67ba1424689c566109108c564",
+        "date": "2021-07-02T05:30:00.000+05:30",
+        "ageBelow30Male": 1,
+        "ageBelow30Female": 0,
+        "age30to59Male": 5,
+        "age30to59Female": 3,
+        "ageAbove60Male": 19,
+        "ageAbove60Female": 9
+    },
+    {
+        "fuzzyKey": "13e26428c91bd97718f2800af03f463b",
+        "date": "2021-07-01T05:30:00.000+05:30",
+        "ageBelow30Male": 0,
+        "ageBelow30Female": 0,
+        "age30to59Male": 3,
+        "age30to59Female": 3,
+        "ageAbove60Male": 24,
+        "ageAbove60Female": 13
+    }
+]
