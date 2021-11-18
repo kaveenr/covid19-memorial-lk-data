@@ -1,4 +1,6 @@
 # DGI Data Explorer
+- [2021-11-11 -> Press Release - Press Release](b2d72f8ea837aa79ee6bdf75e775caa1.md)
+- [2021-11-11 -> Press Release - Covid 19 Infection Deaths](309d5d09f6601fc8bb1cc006cd7f2fb4.md)
 - [2021-11-10 -> Press Release - Press Release](b9597c6ef16a27f8b3accfa421c1cef5.md)
 - [2021-11-10 -> Press Release - Covid 19 Infection Deaths](a33014c02c3b5e41598c843403753d20.md)
 - [2021-11-10 -> Press Release - Covid 19 Infection Report](5a5330ca190523b77dbdc30bd881cb8a.md)
